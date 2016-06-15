@@ -24,5 +24,6 @@ while cur_addr < MaxAddr:
         break
     else:
         print "Can't Find RSA public key information.."
+        break
 
 print'Key scan complete.\n'
